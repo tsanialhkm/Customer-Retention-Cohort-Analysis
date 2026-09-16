@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+.vscode/
+*.session.sql
+__pycache__/
+*.pyc

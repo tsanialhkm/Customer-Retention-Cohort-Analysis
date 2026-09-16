@@ -1,0 +1,6 @@
+report_id,cohort_month,cohort_customers,repeat_customers_as_of_run,displayed_repeat_rate
+CRM-2011-12-09,2011-07,102,74,0.7255
+CRM-2011-12-09,2011-08,106,63,0.5943
+CRM-2011-12-09,2011-09,189,104,0.5503
+CRM-2011-12-09,2011-10,221,94,0.4253
+CRM-2011-12-09,2011-11,191,55,0.288

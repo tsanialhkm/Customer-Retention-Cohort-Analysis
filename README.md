@@ -255,10 +255,9 @@ Financial and customer guardrails:
 ## Repository structure
 
 ```text
-case_002_retention_mirage/
+Customer-Retention-Cohort-Analysis/
 ├── README.md
 ├── START_HERE.md
-├── PLAY_GUIDE_ID.md
 ├── LICENSE_DATA.md
 ├── data/
 │   ├── alder_finch_case_002.db
